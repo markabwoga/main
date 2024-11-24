@@ -1,0 +1,40 @@
+img{
+    margin: 20px;
+
+}
+p{
+    width: 130px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: right;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.secondrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+
+}
+
+.thirdrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.fourthrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
